@@ -15,40 +15,54 @@ const partnershipgallary = [
     },
     {
         id:3,
+        text:"Mr. E. Iyakise",
+        content:"Coordinator , Artisans , Trade and Agricultural Matters",
+        download:`<a href="../img/ex-9.jpeg" download="../img/ex-9.jpeg" class=" btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
+        img:"../img/ex-9.jpeg"
+    },
+     {
+        id:4,
         text:"Chief Eze  D. Okechukwu",
         content:"Corporate and strategic partnerships Coordinator",
         download:`<a href="../img/ex-3.jpeg" download="../img/ex-3.jpeg" class=" btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
         img:"../img/ex-3.jpeg"
     },
     {
-        id:4,
-       text:"PRINCESS DR. UDUAK ASUKWO AKPAN",
-       content:" Naturopathic Physician",
+        id:5,
+       text:"PRINCESS UDUAK ASUKWO AKPAN",
+       content:"Coordinator, Women and Youth Matters",
         download:`<a href="../img/ex-4.jpeg" download="../img/ex-4.jpeg" class=" btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
         img:"../img/ex-4.jpeg"
     },
     {
-        id:5,
-      text:" Princess Dr. Uduak Akpan",
-      content:"Coordinator, Women and Youth Matters",
+        id:6,
+      text:" Mrs Lillian Ogbonna Onyekachi",
+      content:"Donors and Volunteers Executive",
         download:`<a href="../img/ex-5.jpeg" download="../img/ex-5.jpeg" class=" btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
         img:"../img/ex-5.jpeg"
     },
 
      {
-        id:6,
-      text:" ESV.Emmanuel Obot FNIVS, RSV,",
+        id:7,
+      text:" ESV. Emmanuel Obot FNIVS, RSV,",
       content:"Executive Volunteer Partner",
         download:`<a href="../img/ex-6.jpeg" download="../img/ex-6.jpeg" class=" btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
         img:"../img/ex-6.jpeg"
     },
      {
-        id:7,
+        id:8,
       text:" Mr Ifeanyichukwu Ndubusi Edmond",
       content:"A volunteer coordinator",
         download:`<a href="../img/ex-7.jpeg" download="../img/ex-7.jpeg" class=" btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
         img:"../img/ex-7.jpeg"
-    }
+    },
+     {
+        id:9,
+        text:"Juan Madu",
+        content:"Coordinator,  Canadian activities",
+        download:`<a href="../img/ex-8.jpeg" download="../img/ex-8.jpeg" class=" btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
+        img:"../img/ex-8.jpeg"
+    },
 
 ]
 

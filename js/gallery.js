@@ -281,6 +281,20 @@ const partnershipgallary = [
         download:`<a href="../img/img-46.jpg" download="../img/img-46.jpg" class="btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
         img:"../img/img-47.jpg"
     }
+    ,
+    {
+        id:48,
+        text:"After presentation of The Pathway Africa project at the Presidency, federal Republic of Nigeria at the office of Acting Permanent Secretary, office of the Secretary to Government of Federation",
+        download:`<a href="../img/ceo3.jpeg" download="../img/ceo3.jpeg" class="btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
+        img:"../img/ceo3.jpeg"
+    }
+    ,
+    {
+        id:49,
+        text:"The CEO on sensitization program in Porthacourt with  Chief Eze Okechukwu in Porthacourt",
+        download:`<a href="../img/ceo5.jpeg" download="../img/ceo5.jpeg" class="btn btn-primary border-secondary rounded-pill py-3 px-5 mt-4">Download</a>`,
+        img:"../img/ceo5.jpeg"
+    }
 ]
 
 
